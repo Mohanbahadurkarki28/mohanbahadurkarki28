@@ -2,7 +2,7 @@
 # 💫 About Me:
 <h2>Hi, I'm Mohan Bahadur Karki 👋<br>I'm a passionate MERN stack developer who loves building stunning and functional web experiences. </h2>
 
-### 💻 Skills:<br>
+### 💻 Skills: <br>
 ### Frontend Development: HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React<br>
 <p align="left">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
