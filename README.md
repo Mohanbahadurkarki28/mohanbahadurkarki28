@@ -1,6 +1,12 @@
 
 # 💫 About Me:
-<h2>Hi, I'm Mohan Bahadur Karki 👋<br>I'm a passionate MERN stack Developer and Aspiring DevOps Engineer who loves building stunning, functional, and scalable web experiences. I enjoy crafting full-stack applications and streamlining development workflows using modern DevOps practices.</h2>
+<h2>
+  Hi, I'm Mohan Bahadur Karki 👋<br><br>
+  I'm a DevOps Engineer,  MERN Stack Developer and Python Django Developer who loves building stunning, functional, and scalable web experiences. 
+  <br>
+I enjoy crafting full-stack applications and streamlining development workflows using modern DevOps practices.
+</h2>
+
 
 ### 💻 Skills: <br>
 ### Frontend Development: HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React<br>
